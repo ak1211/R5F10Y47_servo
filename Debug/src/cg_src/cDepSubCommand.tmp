@@ -1,0 +1,10 @@
+-MM
+-MP
+-cpu=S1
+-dev="C:/Users/aki/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10Y47.DVF"
+-I "C:/Users/aki/e2_studio/workspace/R5F10Y47_servo/generate"
+-I "C:\Users\aki\e2_studio\workspace\R5F10Y47_servo\src"
+-character_set=utf8
+-lang=c99
+-g
+-Olite

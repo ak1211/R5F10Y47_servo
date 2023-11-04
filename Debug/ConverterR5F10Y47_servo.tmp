@@ -1,0 +1,6 @@
+-MAKEUD="C:\Users\aki\e2_studio\workspace\R5F10Y47_servo\Debug\\R5F10Y47_servo_c.ud" 
+-form=stype 
+-output="R5F10Y47_servo.mot" 
+-byte_count=10 
+-nomessage 
+-nologo

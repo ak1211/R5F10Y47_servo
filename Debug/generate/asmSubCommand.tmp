@@ -1,0 +1,6 @@
+-cpu=S1
+-c
+-dev="C:/Users/aki/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F10Y47.DVF"
+-MAKEUD="C:\Users\aki\e2_studio\workspace\R5F10Y47_servo\Debug\generate"
+-character_set=utf8
+-g
